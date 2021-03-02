@@ -1,6 +1,6 @@
 # 이삭
 
-https://github.com/toast-ceo/flutter_BibleBotDevelopment/blob/main/update_memo/data/game.gif?raw=true
+<img width = "400" src ="\https://github.com/toast-ceo/flutter_BibleBotDevelopment/blob/main/update_memo/data/game.gif?raw=true" >
 
 ### 차근차근 성실하게 공부하려는 대학생 
 
