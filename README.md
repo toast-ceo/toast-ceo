@@ -2,7 +2,7 @@
 
 
 ## Github Stats  
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:issac0122@bible.ac.kr)(mailto:issac0122@bible.ac.kr)
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:issac0122@bible.ac.kr)](mailto:issac0122@bible.ac.kr)
   
   
 <table><tr><td valign="top" width="50%">
