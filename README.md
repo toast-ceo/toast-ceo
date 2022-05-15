@@ -2,7 +2,7 @@
 
 
 ## Github Stats  
-contact : aru0504@naver.com
+contact : issac0122@naver.com
   
   
 <table><tr><td valign="top" width="50%">
