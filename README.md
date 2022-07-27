@@ -1,8 +1,5 @@
 # 이삭
 
-
-## Github Stats  
-contact : issac0122@naver.com
   
   
 <table><tr><td valign="top" width="50%">
