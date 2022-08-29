@@ -5,7 +5,7 @@
 ##### 🏆 Achievement<br>
 <p>
 
-- 만두스튜디오 2기, <a href=https://play.google.com/store/apps/details?id=com.blogspot.ramming125.kbubot&hl=ko&gl=US/)> 성서봇</a> (Front-End) 
+- 만두스튜디오 2기, <a href=https://play.google.com/store/apps/details?id=com.blogspot.ramming125.kbubot&hl=ko&gl=US> 성서봇 </ (Front-End) 
 - <a href=https://ictaes.org/9th-international-conference/conference-program/> ICT-Advanced Engineering SocietyICT 9th ICAEIC-2022 참가</a>
   Crosswalk Pedestrian Situation Recognition System, 1저자
   
