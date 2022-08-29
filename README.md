@@ -5,9 +5,13 @@
 ##### 🏆 Achievement<br>
 <p>
 
-- 만두스튜디오 2기, [성서봇](https://apps.apple.com/kr/app/%EC%84%B1%EC%84%9C%EB%B4%87/id1441276020) (Front-End) 
+- 학부 연구생 1년차
+  
 - <a href=https://ictaes.org/9th-international-conference/conference-program/> ICT-Advanced Engineering SocietyICT 9th ICAEIC-2022 참가</a>
-  Crosswalk Pedestrian Situation Recognition System, 1저자
+  - Crosswalk Pedestrian Situation Recognition System, First Author
+  - 9th ICAEIC-2022, 9th ICAEIC-2022-BA-01 Best Paper Award 선정
+  
+- 만두스튜디오 2기, [성서봇](https://apps.apple.com/kr/app/%EC%84%B1%EC%84%9C%EB%B4%87/id1441276020) (Front-End)  
   
   
   
