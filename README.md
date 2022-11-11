@@ -11,7 +11,7 @@
   - Crosswalk Pedestrian Situation Recognition System, First Author
   - 9th ICAEIC-2022, 9th ICAEIC-2022-BA-01 Best Paper Award 선정
 
-- ICT 한이음, [농산물 직거래 중계](https://www.hanium.or.kr/portal/project/teamBlogView.do) (경선 1차 합격 작품)
+- ICT 한이음, [[농산물 직거래 중계](https://www.hanium.or.kr/portal/project/teamBlogView.do) ](https://www.hanium.or.kr/portal/project/projectView.do) (경선 1차 합격 작품 [201팀 안에 선정])
   
 - 만두스튜디오 2기, [성서봇](https://apps.apple.com/kr/app/%EC%84%B1%EC%84%9C%EB%B4%87/id1441276020) (Front-End)  
   
