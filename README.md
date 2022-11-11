@@ -5,7 +5,7 @@
 ##### 🏆 Achievement<br>
 <p>
 
-- 학부 연구생 1년차
+- 학부 연구생 2년차 중..
   
 - <a href=https://ictaes.org/9th-international-conference/conference-program/> ICT-Advanced Engineering SocietyICT 9th ICAEIC-2022 참가</a>
   - Crosswalk Pedestrian Situation Recognition System, First Author
