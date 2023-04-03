@@ -9,4 +9,4 @@ Lee, Sac, Jaemin Hwang, Junbeom Kim, and Jinho Han. 2023. "CNN-Based Crosswalk P
 
 JaeMin Hwang, Sac Lee, HyunWoo Lee, SeYun Park, and JiYoung Lim, “Efficient Large Dataset Construction using Image Smoothing and Image Size Reduction”, Korean Journal Artificial Intelligence Association (KJAI), 11(1), Mar. 2023. (KCI)
 
-Sac Lee, JaeMin Hwang, JinHo Han, “Crosswalk Pedestrian Situation Recognition System”, 9th International Conference on Advanced Engineering and ICT-Convergence 2022 (ICAEIC 2022), Jul 2022.
+Sac Lee, JaeMin Hwang, JinHo Han, “Crosswalk Pedestrian Situation Recognition System”, 9th International Conference on Advanced Engineering and ICT-Convergence 2022 (ICAEIC 2022), Jul 2022. (Best Paper)
